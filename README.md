@@ -10,13 +10,12 @@ To get the result - please, run:
 python main.py
 ```
 
-After execution, you will 2 files in the results folder:
+After execution, you will see 2 files in the results folder:
 
-1. **api_response.json** - this file stores data from API request via link https://www.traveloka.com/api/v2/hotel/search/rooms - all required data is located here
+1. **api_response.json** - this file stores data from API request via link https://www.traveloka.com/api/v2/hotel/search/rooms - analysis showed, that all required data is located here
 2. **rates.json** - this file is final result of the task, presented in requested format
 
 File **api_response.json** is stored, as it is more stable and convenient to have a file with all required data locally for parsing.
-
 
 ## Structure comments
 
@@ -31,14 +30,14 @@ All code is split into 3 files:
 There were several ambiguities in both scraping and parsing sections. 
 
 Scraping:
-1. Requested link for scraping was holding specifications for dates 20-02-2025.21-02-2025 - it seems pretty obsolete, but I have scraped this exact link nevertheless. Possibly, it was required to generate current date, but this was not mentioned in the task.
+1. Requested link for scraping was holding specifications for dates **20-02-2025.21-02-2025** - it seems pretty obsolete, but I have scraped this exact link nevertheless. Possibly, it was required to generate current date, but this was not mentioned in the task.
 2. It was required to generate deep_link during the program - I am not quite sure, what was meant here. Possibly, link must have been updated as speculated in p.1.
 3. It was requested to use only python library Requests - I couldn't see how it was possible, as the source site actively uses JS to load content. Requests library does not work with JS, so I have used Playwright for scraping. It is not BeautifulSoup, so I hope it still counts.
 
 Parsing:
 1. I saw discrepancy between **p. III.B**, where fields were mentioned and **p. IV** - the lists of fields does not match.
-2. Regarding field rate_name - I could not see the difference in prices, if I choose **Price/room/night** or **Total price** (with matching taxes / without taxes). So this field does not make much sense - I have hardcoded it to **"Price/room/night"**.
-3. Regarding field shown_price.rate_name - API gives all possible variants, but we can choose by ourselves, how prices are shown, with/without taxes. So I also hardcoded this value to **"Exclude taxes & fees"**.
+2. Regarding field rate_name - I could not see the difference in prices between **Price/room/night** or **Total price** (with matching taxes / without taxes). So this field does not make much sense - I have hardcoded it to **"Price/room/night"**.
+3. Regarding field shown_price.rate_name - API gives all possible variants, but we can choose by ourselves, how prices are shown - with or without taxes. So I also hardcoded this value to **"Exclude taxes & fees"**.
 4. As all prices are per stay - I parsed 6 fields for prices: **total_price_per_stay**, **shown_price_per_stay**, **taxes_amount** - and same fields, but original ones. This does not really match the requirements, but this is the best logical parse that I could come up with.
 
 ## Final comments
