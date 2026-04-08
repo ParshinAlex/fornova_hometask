@@ -1,0 +1,461 @@
+[
+  {
+    "room_name": "Superior Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "This reservation is non-refundable.",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "2,636.45",
+    "shown_price_per_stay": "2,239.97",
+    "taxes_amount": "396.48",
+    "original_total_price_per_stay": "3,515.27",
+    "original_shown_price_per_stay": "2,986.63",
+    "original_taxes_amount": "528.64"
+  },
+  {
+    "room_name": "Superior Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 18 Apr 2026",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "3,975.26",
+    "shown_price_per_stay": "3,377.45",
+    "taxes_amount": "597.81",
+    "original_total_price_per_stay": "5,300.35",
+    "original_shown_price_per_stay": "4,503.27",
+    "original_taxes_amount": "797.08"
+  },
+  {
+    "room_name": "Superior Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 19 Apr 2026",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,067.97",
+    "shown_price_per_stay": "3,456.21",
+    "taxes_amount": "611.76",
+    "original_total_price_per_stay": "5,423.96",
+    "original_shown_price_per_stay": "4,608.28",
+    "original_taxes_amount": "815.68"
+  },
+  {
+    "room_name": "Superior Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 18 Apr 2026",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,527.38",
+    "shown_price_per_stay": "3,846.54",
+    "taxes_amount": "680.84",
+    "original_total_price_per_stay": "6,036.51",
+    "original_shown_price_per_stay": "5,128.72",
+    "original_taxes_amount": "907.79"
+  },
+  {
+    "room_name": "Superior Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 19 Apr 2026",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,632.88",
+    "shown_price_per_stay": "3,936.17",
+    "taxes_amount": "696.71",
+    "original_total_price_per_stay": "6,177.17",
+    "original_shown_price_per_stay": "5,248.22",
+    "original_taxes_amount": "928.95"
+  },
+  {
+    "room_name": "Deluxe Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "This reservation is non-refundable.",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "2,888.09",
+    "shown_price_per_stay": "2,453.77",
+    "taxes_amount": "434.32",
+    "original_total_price_per_stay": "3,850.79",
+    "original_shown_price_per_stay": "3,271.70",
+    "original_taxes_amount": "579.09"
+  },
+  {
+    "room_name": "Deluxe Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 18 Apr 2026",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,637.81",
+    "shown_price_per_stay": "3,940.36",
+    "taxes_amount": "697.45",
+    "original_total_price_per_stay": "6,183.75",
+    "original_shown_price_per_stay": "5,253.82",
+    "original_taxes_amount": "929.93"
+  },
+  {
+    "room_name": "Deluxe Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 19 Apr 2026",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,745.54",
+    "shown_price_per_stay": "4,031.89",
+    "taxes_amount": "713.65",
+    "original_total_price_per_stay": "6,327.39",
+    "original_shown_price_per_stay": "5,375.86",
+    "original_taxes_amount": "951.53"
+  },
+  {
+    "room_name": "Deluxe Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 18 Apr 2026",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "5,189.92",
+    "shown_price_per_stay": "4,409.44",
+    "taxes_amount": "780.48",
+    "original_total_price_per_stay": "6,919.89",
+    "original_shown_price_per_stay": "5,879.25",
+    "original_taxes_amount": "1,040.64"
+  },
+  {
+    "room_name": "Deluxe Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 19 Apr 2026",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "5,310.77",
+    "shown_price_per_stay": "4,512.12",
+    "taxes_amount": "798.65",
+    "original_total_price_per_stay": "7,081.03",
+    "original_shown_price_per_stay": "6,016.16",
+    "original_taxes_amount": "1,064.87"
+  },
+  {
+    "room_name": "Junior Ocean View Suite",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "This reservation is non-refundable.",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,178.71",
+    "shown_price_per_stay": "3,550.30",
+    "taxes_amount": "628.41",
+    "original_total_price_per_stay": "5,571.61",
+    "original_shown_price_per_stay": "4,733.73",
+    "original_taxes_amount": "837.88"
+  },
+  {
+    "room_name": "Junior Ocean View Suite",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "This reservation is non-refundable.",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "3,568.87",
+    "shown_price_per_stay": "3,032.17",
+    "taxes_amount": "536.70",
+    "original_total_price_per_stay": "4,758.49",
+    "original_shown_price_per_stay": "4,042.89",
+    "original_taxes_amount": "715.60"
+  },
+  {
+    "room_name": "Junior Ocean View Suite",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 18 Apr 2026",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "5,631.62",
+    "shown_price_per_stay": "4,784.72",
+    "taxes_amount": "846.90",
+    "original_total_price_per_stay": "7,508.83",
+    "original_shown_price_per_stay": "6,379.63",
+    "original_taxes_amount": "1,129.20"
+  },
+  {
+    "room_name": "Junior Ocean View Suite",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 19 Apr 2026",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "5,763.02",
+    "shown_price_per_stay": "4,896.36",
+    "taxes_amount": "866.66",
+    "original_total_price_per_stay": "7,684.03",
+    "original_shown_price_per_stay": "6,528.48",
+    "original_taxes_amount": "1,155.55"
+  },
+  {
+    "room_name": "Junior Ocean View Suite",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 18 Apr 2026",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "6,183.74",
+    "shown_price_per_stay": "5,253.81",
+    "taxes_amount": "929.93",
+    "original_total_price_per_stay": "8,244.99",
+    "original_shown_price_per_stay": "7,005.08",
+    "original_taxes_amount": "1,239.91"
+  },
+  {
+    "room_name": "Junior Ocean View Suite",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 19 Apr 2026",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "6,327.60",
+    "shown_price_per_stay": "5,376.04",
+    "taxes_amount": "951.56",
+    "original_total_price_per_stay": "8,436.80",
+    "original_shown_price_per_stay": "7,168.05",
+    "original_taxes_amount": "1,268.75"
+  },
+  {
+    "room_name": "Premier King Bed - Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "This reservation is non-refundable.",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,273.41",
+    "shown_price_per_stay": "3,630.76",
+    "taxes_amount": "642.65",
+    "original_total_price_per_stay": "5,697.88",
+    "original_shown_price_per_stay": "4,841.01",
+    "original_taxes_amount": "856.87"
+  },
+  {
+    "room_name": "Premier King Bed - Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "This reservation is non-refundable.",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "3,776.50",
+    "shown_price_per_stay": "3,208.58",
+    "taxes_amount": "567.92",
+    "original_total_price_per_stay": "5,035.33",
+    "original_shown_price_per_stay": "4,278.10",
+    "original_taxes_amount": "757.23"
+  },
+  {
+    "room_name": "Premier King Bed - Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 18 Apr 2026",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,196.11",
+    "shown_price_per_stay": "3,565.08",
+    "taxes_amount": "631.03",
+    "original_total_price_per_stay": "5,594.81",
+    "original_shown_price_per_stay": "4,753.44",
+    "original_taxes_amount": "841.37"
+  },
+  {
+    "room_name": "Premier King Bed - Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 19 Apr 2026",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,293.94",
+    "shown_price_per_stay": "3,648.20",
+    "taxes_amount": "645.74",
+    "original_total_price_per_stay": "5,725.25",
+    "original_shown_price_per_stay": "4,864.26",
+    "original_taxes_amount": "860.99"
+  },
+  {
+    "room_name": "Premier King Bed - Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 18 Apr 2026",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,748.23",
+    "shown_price_per_stay": "4,034.18",
+    "taxes_amount": "714.05",
+    "original_total_price_per_stay": "6,330.97",
+    "original_shown_price_per_stay": "5,378.90",
+    "original_taxes_amount": "952.07"
+  },
+  {
+    "room_name": "Premier King Bed - Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 19 Apr 2026",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,858.84",
+    "shown_price_per_stay": "4,128.15",
+    "taxes_amount": "730.69",
+    "original_total_price_per_stay": "6,478.45",
+    "original_shown_price_per_stay": "5,504.20",
+    "original_taxes_amount": "974.25"
+  },
+  {
+    "room_name": "Family Suite Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "This reservation is non-refundable.",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "4,143.40",
+    "shown_price_per_stay": "3,520.30",
+    "taxes_amount": "623.10",
+    "original_total_price_per_stay": "5,524.53",
+    "original_shown_price_per_stay": "4,693.73",
+    "original_taxes_amount": "830.80"
+  },
+  {
+    "room_name": "Family Suite Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 18 Apr 2026",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "6,735.86",
+    "shown_price_per_stay": "5,722.90",
+    "taxes_amount": "1,012.96",
+    "original_total_price_per_stay": "8,981.15",
+    "original_shown_price_per_stay": "7,630.54",
+    "original_taxes_amount": "1,350.61"
+  },
+  {
+    "room_name": "Family Suite Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 19 Apr 2026",
+    "breakfast": "Without Breakfast",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "6,892.83",
+    "shown_price_per_stay": "5,856.27",
+    "taxes_amount": "1,036.56",
+    "original_total_price_per_stay": "9,190.44",
+    "original_shown_price_per_stay": "7,808.36",
+    "original_taxes_amount": "1,382.08"
+  },
+  {
+    "room_name": "Family Suite Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 18 Apr 2026",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "7,287.98",
+    "shown_price_per_stay": "6,191.99",
+    "taxes_amount": "1,095.99",
+    "original_total_price_per_stay": "9,717.31",
+    "original_shown_price_per_stay": "8,255.99",
+    "original_taxes_amount": "1,461.32"
+  },
+  {
+    "room_name": "Family Suite Ocean View",
+    "rate_name": "Price/room/night",
+    "shown_currency": "THB",
+    "cancellation_policy": "Free Cancellation before 19 Apr 2026",
+    "breakfast": "Breakfast for 2",
+    "number_of_guests": "2",
+    "shown_price": {
+      "rate_name": "Exclude taxes & fees"
+    },
+    "total_price_per_stay": "7,457.74",
+    "shown_price_per_stay": "6,336.22",
+    "taxes_amount": "1,121.52",
+    "original_total_price_per_stay": "9,943.65",
+    "original_shown_price_per_stay": "8,448.29",
+    "original_taxes_amount": "1,495.36"
+  }
+]
